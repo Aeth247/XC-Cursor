@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="XC-Cursor Logo" width="200" />
+<img src="assets/logo.png" alt="XC-Cursor Logo" width="300" />
 
 **专业的 Cursor 账号管理与智能续杯解决方案**
 
@@ -37,16 +37,20 @@
 - ✅ **自定义浏览器路径** - 支持指定浏览器位置，兼容多种浏览器
 - ✅ **一键禁用代理** - 支持一键禁用系统代理，避免网络冲突
 
-## 📖 使用指南
+---
 
-**使用说明**：解压后直接运行，绿色版无需安装。首次运行如被系统拦截，允许运行即可。
+## 📦 下载安装
 
-### 🔧 常见问题
-- **系统拦截**：Windows 点击"更多信息"→"仍要运行"；macOS 在安全设置中允许打开
-- **注册失败**：检查网络连接，调整注册间隔，更换邮箱服务商
-- **邮箱验证**：确认邮箱配置正确，检查垃圾邮件文件夹
-- **续杯失效**：试用到期后使用一键续杯功能，或手动切换到新注册的账号
-- **模型限制**：免费试用账号有使用次数限制，可通过续杯功能获取新的使用额度
+### 🌟 多平台支持
+- **Windows**：支持 Windows 10/11，x64 架构
+- **macOS**：支持 Intel 和 Apple Silicon 芯片
+- **Linux**：支持主流 Linux 发行版
+
+### 📥 下载地址
+- **GitHub Releases**：[点击下载最新版本](https://github.com/Aeth247/XC-Cursor/releases)
+
+---
+
 
 ## 💬 交流群组
 
@@ -78,15 +82,3 @@
 **🚀 让 Cursor 让智能编程更优雅！**
 
 </div>
-
----
-
-## 📦 下载安装
-
-### 🌟 多平台支持
-- **Windows**：支持 Windows 10/11，x64 架构
-- **macOS**：支持 Intel 和 Apple Silicon 芯片
-- **Linux**：支持主流 Linux 发行版
-
-### 📥 下载地址
-- **GitHub Releases**：[点击下载最新版本](https://github.com/Aeth247/XC-Cursor/releases)
