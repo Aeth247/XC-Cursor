@@ -37,7 +37,7 @@
 - ✅ **自动绑卡** - 注册完成后自动绑定预设卡片
 
 <div align="center">
-<img src="assets/screenshot-auto-register.png" alt="自动注册界面" width="400" />
+<img src="assets/screenshot-auto-register.png" alt="自动注册界面" width="888" />
 <p><em>🤖 智能自动注册界面 - 配置状态、注册控制、实时日志一览无余</em></p>
 </div>
 
@@ -49,7 +49,7 @@
 - ✅ **查看模型详情** - 查看模型使用与订阅信息
 
 <div align="center">
-<img src="assets/screenshot-account-manager.png" alt="账号管理界面" width="400" />
+<img src="assets/screenshot-account-manager.png" alt="账号管理界面" width="888" />
 <p><em>📊 账号管理界面 - 轻松管理多账号，一键切换，批量操作</em></p>
 </div>
 
@@ -59,7 +59,7 @@
 - ✅ **一键禁用代理** - 支持一键禁用系统代理，避免网络冲突
 
 <div align="center">
-<img src="assets/screenshot-settings.png" alt="设置界面" width="400" />
+<img src="assets/screenshot-settings.png" alt="设置界面" width="888" />
 <p><em>⚙️ 智能配置界面 - 自定义路径设置、代理管理、个性化配置</em></p>
 </div>
 
