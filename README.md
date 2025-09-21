@@ -77,10 +77,18 @@
 
 ## 💬 交流群组
 
-**QQ群：1058838867**
-- 使用教程和问题解答  
-- 版本更新通知
-- 用户经验交流
+<div align="center">
+<table>
+<tr>
+<td align="center" style="border: 2px solid #1890ff; background: #f6ffff; padding: 20px; border-radius: 10px;">
+
+### 💬 **QQ交流群：1058838867**  
+🎯 **使用教程和问题解答 • 版本更新通知 • 用户经验交流**
+
+</td>
+</tr>
+</table>
+</div>
 
 ### 📱 微信交流群
 
