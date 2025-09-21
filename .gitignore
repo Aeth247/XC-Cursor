@@ -1,0 +1,9 @@
+# IDE和工具配置文件
+.cursor/
+.cunzhi-memory/
+
+# 其他常见的忽略文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
