@@ -6,6 +6,17 @@
 
 **专业的 Cursor 账号管理与智能续杯解决方案**
 
+<table align="center">
+<tr>
+<td align="center" style="border: 2px solid #ff4444; background: #fff8f8; padding: 15px; border-radius: 8px;">
+
+### 🔥 **【支持 Claude 4、GPT 5】【完全免费使用】**
+**🚀 轻松一键续杯 Cursor Pro，保持14天试用不掉**
+
+</td>
+</tr>
+</table>
+
 [📦 立即下载](#-下载安装) · [💬 交流群组](#-交流群组)
 
 </div>
@@ -14,6 +25,9 @@
 
 ## 🎯 核心功能
 
+> ### ⚡ **重要提示**
+> 💳 **虚拟信用卡一张目前只能激活1个试用账号**  
+
 ### 🔄 智能续杯 & 自动注册
 - ✅ **模型支持** - 支持 Claude 4、GPT 5，完全免费使用
 - ✅ **秒级换号** - 秒级切换，自动重置机器码， 轻松保持 Cursor Pro 14天试用不掉
@@ -21,9 +35,6 @@
 - ✅ **批量并行** - 支持多实例并行注册，效率更高
 - ✅ **多域名轮换** - 随机选择域名，防止封号
 - ✅ **自动绑卡** - 注册完成后自动绑定预设卡片
-
-> ⚠️ **重要提示**：
-> - Cursor虚拟信用卡一张目前只能激活1个试用账号
 
 ### 📊 账号管理
 - ✅ **批量导入导出** - 支持多种格式的账号数据
@@ -41,13 +52,25 @@
 
 ## 📦 下载安装
 
-### 🌟 多平台支持
-- **Windows**：支持 Windows 10/11，x64 架构
-- **macOS**：支持 Intel 和 Apple Silicon 芯片
-- **Linux**：支持主流 Linux 发行版
+<div align="center">
+<table>
+<tr>
+<td align="center" style="border: 2px solid #00aa00; background: #f0fff0; padding: 20px; border-radius: 10px;">
 
-### 📥 下载地址
-- **GitHub Releases**：[点击下载最新版本](https://github.com/Aeth247/XC-Cursor/releases)
+### 📥 **立即下载最新版本**  
+🎯 **[GitHub Releases - 点击下载](https://github.com/Aeth247/XC-Cursor/releases)**
+
+**💻 支持平台：Windows 10/11 • macOS (Intel & M芯片) • Linux**
+
+</td>
+</tr>
+</table>
+</div>
+
+### 🌟 平台兼容性
+- ✅ **Windows**：支持 Windows 10/11，x64 架构
+- ✅ **macOS**：支持 Intel 和 Apple Silicon 芯片  
+- ✅ **Linux**：支持主流 Linux 发行版
 
 ---
 
