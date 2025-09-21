@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="XC-Cursor Logo" width="300" />
+<img src="assets/logo.png" alt="XC-Cursor Logo" width="600" />
 
 **专业的 Cursor 账号管理与智能续杯解决方案**
 
