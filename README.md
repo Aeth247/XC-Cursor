@@ -1,5 +1,22 @@
 # 🚀 XC-Cursor - 让智能编程更优雅
 
+<div align="center" style="margin: 20px 0;">
+<table>
+<tr>
+<td align="center" style="border: 2px solid #1890ff; background: #f0f9ff; padding: 15px 30px; border-radius: 10px; margin: 0 10px;">
+<a href="#-下载安装" style="text-decoration: none; color: #1890ff; font-weight: bold; font-size: 16px;">
+🚀 <strong>立即下载</strong>
+</a>
+</td>
+<td align="center" style="border: 2px solid #52c41a; background: #f6ffed; padding: 15px 30px; border-radius: 10px; margin: 0 10px;">
+<a href="#-交流群组" style="text-decoration: none; color: #52c41a; font-weight: bold; font-size: 16px;">
+💬 <strong>交流群组</strong>
+</a>
+</td>
+</tr>
+</table>
+</div>
+
 <div align="center">
 
 <img src="assets/logo.png" alt="XC-Cursor Logo" width="888" />
@@ -19,8 +36,6 @@
 </td>
 </tr>
 </table>
-
-[📦 立即下载](#-下载安装) · [💬 交流群组](#-交流群组)
 
 </div>
 
