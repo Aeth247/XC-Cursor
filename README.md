@@ -1,4 +1,4 @@
-# 🚀 XC-Cursor - 让智能编程更优雅
+# 🚀 XC-Cursor - 让智能编程更优雅- 最新版本请加微信群
 
 <div align="center" style="margin: 20px 0;">
 <table>
