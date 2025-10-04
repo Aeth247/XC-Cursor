@@ -27,7 +27,7 @@
 <tr>
 <td align="center" style="border: 2px solid #ff4444; background: #fff8f8; padding: 15px; border-radius: 8px;">
 
-### 🔥 **【支持 Claude 4、GPT 5】【完全免费使用】**
+### 🔥 **【支持 Claude 全系、GPT 5全系、gemini全系】【完全免费使用】**
 **🚀 轻松一键续杯 Cursor Pro，保持14天试用不掉**
 
 > ### ⚡ **重要提示**
