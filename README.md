@@ -27,7 +27,7 @@
 <tr>
 <td align="center" style="border: 2px solid #ff4444; background: #fff8f8; padding: 15px; border-radius: 8px;">
 
-### 🔥 **【支持 Claude 4、GPT 5】【完全免费使用】**
+### 🔥 **【支持 Claude全系、GPT 5全系】【完全免费使用】**
 **🚀 轻松一键续杯 Cursor Pro，保持14天试用不掉**
 
 > ### ⚡ **重要提示**
@@ -56,7 +56,6 @@
 </div>
 
 ### 🔄 智能续杯 & 自动注册
-- ✅ **模型支持** - 支持 Claude 4、GPT 5，完全免费使用
 - ✅ **秒级换号** - 秒级切换，自动重置机器码， 轻松保持 Cursor Pro 14天试用不掉
 - ✅ **全流程自动** - 从邮箱验证到账号激活，完全无人值守
 - ✅ **批量并行** - 支持多实例并行注册，效率更高
@@ -124,16 +123,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-### 📱 微信交流群
-
-<div align="center">
-
-<img src="assets/wechat-group.jpg" alt="微信群二维码" width="300" />
-
-*扫码加入微信群，获取实时技术支持*
-
 </div>
 
 ## ☕ 赞助支持
