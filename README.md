@@ -1,4 +1,4 @@
-# 🚀 XC-Cursor - 让智能编程更优雅- 支持跳过手机号码验证，激活码加群获取
+# 🚀 XC-Cursor - 让智能编程更优雅- 最新版本和激活码请加群获取，git不再更新
 
 <div align="center" style="margin: 20px 0;">
 <table>
