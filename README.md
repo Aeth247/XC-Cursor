@@ -1,4 +1,4 @@
-# 🚀 XC-Cursor - 让智能编程更优雅- 激活码请群公告获取，git不再更新
+# 🚀 XC-Cursor - 让智能编程更优雅- 激活码请群公告获取，完全免费
 
 <div align="center" style="margin: 20px 0;">
 <table>
