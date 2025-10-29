@@ -1,4 +1,4 @@
-# 🚀 XC-Cursor - 让智能编程更优雅- 最新版本和激活码请加交流群获取
+# 🚀 XC-Cursor - 让智能编程更优雅- 激活码请群公告获取，git不再更新
 
 <div align="center" style="margin: 20px 0;">
 <table>
@@ -118,6 +118,8 @@
 <td align="center" style="border: 2px solid #1890ff; background: #f6ffff; padding: 20px; border-radius: 10px;">
 
 ### 💬 **QQ交流群：1058838867**  
+<img src="assets/qq-group-qrcode.png" alt="QQ群二维码" width="260" />
+
 🎯 **使用教程和问题解答 • 版本更新通知 • 用户经验交流**
 
 </td>
