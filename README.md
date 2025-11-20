@@ -117,7 +117,7 @@
 <tr>
 <td align="center" style="border: 2px solid #1890ff; background: #f6ffff; padding: 20px; border-radius: 10px;">
 
-### 💬 **QQ交流群：1058838867**  
+### 💬 **QQ交流群：1029363229**  
 <img src="assets/qq-group-qrcode.png" alt="QQ群二维码" width="260" />
 
 🎯 **使用教程和问题解答 • 版本更新通知 • 用户经验交流**
