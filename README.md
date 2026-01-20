@@ -1,4 +1,4 @@
-# 🚀 XC-Cursor- 让智能编程更优雅
+<h1 align="center">🚀 XC-Cursor - 让智能编程更优雅</h1>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 </tr>
 </table>
 
-### 🔥 **【支持 Claude全系、GPT 5全系】【完全免费】**
+### 🔥 【支持 Claude全系、GPT 5全系】【完全免费】
 **🚀 一键无感换号，保持7天试用不掉**
 
 </div>
