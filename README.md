@@ -1,4 +1,4 @@
-# 🚀 XC-Cursor Lite - 让智能编程更优雅
+# 🚀 XC-Cursor- 让智能编程更优雅
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎯 核心功能
+<h2 align="center">🎯 核心功能</h2>
 
 ### 📊 账号管理
 - ✅ **批量导入导出** - 支持多种格式的账号数据
@@ -48,29 +48,43 @@
 
 ---
 
-## 📦 下载安装
+<h2 align="center">📦 下载安装</h2>
+
+<div align="center">
 
 🎯 **[GitHub Releases - 点击下载](https://github.com/Aeth247/XC-Cursor/releases)**
 
 **💻 支持平台：Windows 10/11 • macOS • Linux**
 
+</div>
+
 ---
 
-## 💬 交流群组
+<h2 align="center">💬 交流群组</h2>
+
+<div align="center">
 
 **QQ交流群：1078540137**
 
 使用教程和问题解答 • 版本更新通知 • 用户经验交流
 
+<img src="assets/qq-group-qrcode.png" alt="QQ群二维码" width="260" />
+
+</div>
+
 ---
 
-## ☕ 赞助支持
+<h2 align="center">☕ 赞助支持</h2>
+
+<div align="center">
 
 如果这个项目对你有帮助，欢迎赞助支持。
 
+</div>
+
 ---
 
-## 🖼️ 软件截图
+<h2 align="center">🖼️ 软件截图</h2>
 
 <div align="center">
 
@@ -82,9 +96,6 @@
 
 <img src="assets/screenshot-auto-register.png" alt="自动注册界面" width="888" />
 <p><em>🤖 自动注册界面 - 配置状态、注册控制、实时日志一览无余</em></p>
-
-<img src="assets/qq-group-qrcode.png" alt="QQ群二维码" width="260" />
-<p><em>💬 QQ交流群二维码</em></p>
 
 | 微信赞助 | 支付宝赞助 |
 |---|---|
