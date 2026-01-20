@@ -74,16 +74,6 @@
 
 ---
 
-<h2 align="center">☕ 赞助支持</h2>
-
-<div align="center">
-
-如果这个项目对你有帮助，欢迎赞助支持。
-
-</div>
-
----
-
 <h2 align="center">🖼️ 软件截图</h2>
 
 <div align="center">
@@ -96,6 +86,16 @@
 
 <img src="assets/screenshot-auto-register.png" alt="自动注册界面" width="888" />
 <p><em>🤖 自动注册界面 - 配置状态、注册控制、实时日志一览无余</em></p>
+
+</div>
+
+---
+
+<h2 align="center">☕ 赞助支持</h2>
+
+<div align="center">
+
+如果这个项目对你有帮助，欢迎赞助支持。
 
 | 微信赞助 | 支付宝赞助 |
 |---|---|
